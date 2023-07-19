@@ -1,27 +1,35 @@
-# Change these first
 owner: SanujaNS # Your GitHub organization or username, where this repository lives
 repo: SanujaPut-Status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: My Gateway Website
+    url: https://sanuja.biz
+  - name: My Blog
+    url: https://sanujas.com
+  - name: SanujaPut-Music-1
+    url: https://sanujaputmusic.tk
+  - name: SanujaPut-Music-2
+    url: https://sanujas.serv00.net
+  - name: Lofi Beats
+    url: https://sanuja.rf.gd
+  - name: YourIP
+    url: https://sanuja.biz/projects/tools/yourip
+  - name: IPLookup
+    url: https://sanuja.biz/projects/tools/iplookup
+  - name: Navidrome_Server
+    url: https://navidrome-test-kxitj.run-ap-south1.goorm.io/app
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /SanujaPut-Status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: dark
+  cname: status.sanuja.biz
+  # baseUrl: /your-repo-name
+  logoUrl: https://sanuja.biz/images/logo.svg
+  name: SanujaPut-Status
+  faviconSvg: https://sanuja.biz/images/logo.svg
+  introTitle: "**SanujaPut-Status** uptime monitor and status page."
+  introMessage: This is uptime monitor and status page for services under [Sanuja Seneviratne](https://sanuja.biz/connect-me/).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
