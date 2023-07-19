@@ -3,21 +3,27 @@ repo: SanujaPut-Status # The name of this repository
 
 sites:
   - name: My Gateway Website
-    url: https://sanuja.biz
+    url: https://sanuja.biz/
+    port: 443
   - name: My Blog
-    url: https://sanujas.com
+    url: https://sanujas.com/
+    port: 443
   - name: SanujaPut-Music-1
     url: https://sanujaputmusic.tk
   - name: SanujaPut-Music-2
     url: https://sanujas.serv00.net
   - name: Lofi Beats
-    url: https://sanuja.rf.gd
+    url: https://sanuja.rf.gd/
+    port: 443
+    __dangerous__disable_verify_peer: true
   - name: YourIP
     url: https://sanuja.biz/projects/tools/yourip
   - name: IPLookup
     url: https://sanuja.biz/projects/tools/iplookup
   - name: Navidrome_Server
     url: https://navidrome-test-kxitj.run-ap-south1.goorm.io/app
+  - name: Private-DNS (ADGuard)
+    url: $ADGUARD
 
 status-website:
   theme: dark
