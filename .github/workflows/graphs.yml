@@ -17,7 +17,6 @@ on:
 jobs:
   release:
     name: Generate graphs
-    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
