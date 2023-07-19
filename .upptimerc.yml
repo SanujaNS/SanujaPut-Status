@@ -4,7 +4,20 @@ repo: SanujaPut-Status # The name of this repository
 sites:
   - name: My Gateway Website
     url: https://sanuja.biz/
-    port: 443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 300
+      - 301
+      - 302
+      - 303
+      - 304
+      - 502
+      - 503
+      - 504
+      - 520
+      - 525
+      - 526
   - name: My Blog
     url: https://sanujas.com/
     port: 443
@@ -37,5 +50,5 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Connect-Me
+      href: https://sanuja.biz/connect-me/
