@@ -5,22 +5,11 @@ sites:
   - name: My Gateway Website
     url: https://sanuja.biz/
     expectedStatusCodes:
-      - 200
-      - 201
-      - 300
-      - 301
-      - 302
-      - 303
-      - 304
-      - 502
-      - 503
-      - 504
-      - 520
-      - 525
-      - 526
+      - 403
   - name: My Blog
     url: https://sanujas.com/
-    port: 443
+    expectedStatusCodes:
+      - 403
   - name: SanujaPut-Music-1
     url: https://sanujaputmusic.tk
   - name: SanujaPut-Music-2
@@ -31,12 +20,18 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: YourIP
     url: https://sanuja.biz/projects/tools/yourip
+    expectedStatusCodes:
+      - 403
   - name: IPLookup
     url: https://sanuja.biz/projects/tools/iplookup
+    expectedStatusCodes:
+      - 403
   - name: Navidrome_Server
     url: https://navidrome-test-kxitj.run-ap-south1.goorm.io/app
   - name: Private-DNS (ADGuard)
     url: $ADGUARD
+    expectedStatusCodes:
+      - 403
 
 status-website:
   theme: dark
