@@ -31,7 +31,7 @@ sites:
   - name: Private-DNS (ADGuard)
     url: $ADGUARD
     expectedStatusCodes:
-      - 403
+      - 400
 
 status-website:
   theme: dark
