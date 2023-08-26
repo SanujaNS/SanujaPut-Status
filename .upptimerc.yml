@@ -17,6 +17,7 @@ sites:
   - name: Lofi Beats
     url: https://sanuja.rf.gd/
     port: 443
+    __dangerous__disable_verify_peer: true
   - name: YourIP
     url: https://sanuja.biz/projects/tools/yourip
     expectedStatusCodes:
