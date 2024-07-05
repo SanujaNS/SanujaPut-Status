@@ -11,9 +11,9 @@ sites:
     expectedStatusCodes:
       - 403
   - name: SanujaPut-Music-1
-    url: https://sanujaputmusic.tk
+    url: https://smusic.sanujas.eu.org/
   - name: SanujaPut-Music-2
-    url: https://sanujas.serv00.net
+    url: https://sanujas.serv00.net/
   - name: Lofi Beats
     url: https://sanuja.rf.gd/
     port: 443
@@ -26,8 +26,10 @@ sites:
     url: https://sanuja.biz/projects/tools/iplookup
     expectedStatusCodes:
       - 403
-  - name: Navidrome_Server
-    url: https://navidrome-test-kxitj.run-ap-south1.goorm.io/app
+  - name: YT Data Extractor
+    url: https://yt.sanuja.eu.org/
+  - name: File Downloader
+    url: https://dl.sanuja.eu.org/
   - name: Private-DNS (ADGuard)
     url: $ADGUARD
     expectedStatusCodes:
