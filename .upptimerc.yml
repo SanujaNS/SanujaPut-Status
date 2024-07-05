@@ -30,6 +30,8 @@ sites:
     url: https://yt.sanuja.eu.org/
   - name: File Downloader
     url: https://dl.sanuja.eu.org/
+  - name: Oracle Files
+    url: $ORACLE
   - name: Private-DNS (ADGuard)
     url: $ADGUARD
     expectedStatusCodes:
