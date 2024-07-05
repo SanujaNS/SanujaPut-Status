@@ -32,6 +32,8 @@ sites:
     url: https://dl.sanuja.eu.org/
   - name: Oracle Files
     url: $ORACLE
+    expectedStatusCodes:
+      - 401
   - name: Private-DNS (ADGuard)
     url: $ADGUARD
     expectedStatusCodes:
