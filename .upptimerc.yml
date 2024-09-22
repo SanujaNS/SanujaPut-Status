@@ -51,11 +51,11 @@ status-website:
   theme: dark
   cname: status.sanuja.biz
   # baseUrl: /your-repo-name
-  logoUrl: https://sanuja.biz/images/logo.svg
+  logoUrl: https://sanuja.biz/images/status-logo.webp
   name: SanujaPut-Status
-  faviconSvg: https://sanuja.biz/images/logo.svg
+  favicon: https://sanuja.biz/images/status-logo.ico
   introTitle: "**SanujaPut-Status** uptime monitor and status page."
-  introMessage: This is uptime monitor and status page for services under [Sanuja Seneviratne](https://sanuja.biz/connect-me/).
+  introMessage: This is uptime monitor and status page for services under [Sanuja Seneviratne](https://sanuja.biz/).
   navbar:
     - title: Status
       href: /
