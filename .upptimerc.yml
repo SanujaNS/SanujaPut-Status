@@ -38,10 +38,10 @@ sites:
     url: https://bin.sanuja.eu.org/
   - name: File Downloader
     url: https://dl.sanuja.eu.org/
-  - name: Instagram Scraper
-    url: https://nc.sanujas.com/
-    expectedStatusCodes:
-      - 403
+  #- name: Instagram Scraper
+  #  url: https://nc.sanujas.com/
+  #  expectedStatusCodes:
+  #    - 403
   - name: Oracle File Index
     url: $ORACLE
     expectedStatusCodes:
