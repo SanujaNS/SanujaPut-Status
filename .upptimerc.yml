@@ -36,7 +36,7 @@ sites:
     url: https://ss.sanuja.eu.org/
   - name: SanujaPut_Bin (Pastebin Alternative)
     url: https://bin.sanuja.eu.org/
-  - name: File Downloader
+  - name: Social Media Downloader
     url: https://dl.sanuja.eu.org/
   #- name: Instagram Scraper
   #  url: https://nc.sanujas.com/
