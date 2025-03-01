@@ -1,7 +1,7 @@
 url: $ORACLE
-status: up
-code: 200
-responseTime: 502
-lastUpdated: 2025-02-28T23:20:34.310Z
+status: down
+code: 521
+responseTime: 380
+lastUpdated: 2025-03-01T06:18:14.090Z
 startTime: 2024-09-22T10:21:56.210Z
 generator: Upptime <https://github.com/upptime/upptime>
