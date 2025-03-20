@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smusic.sanujas.eu.org.ico",
     "slug": "sanuja-put-music-1",
     "status": "up",
-    "uptime": "71.15%",
+    "uptime": "71.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "66.00%",
+    "uptimeYear": "66.02%",
     "time": 1754,
     "timeDay": 1749,
     "timeWeek": 1275,
@@ -206,8 +206,7 @@
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
-      "2024-03-21": 1440,
-      "2024-03-20": 1440
+      "2024-03-21": 1440
     }
   },
   {
@@ -500,11 +499,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.sanuja.eu.org.ico",
     "slug": "sanuja-put-bin-pastebin-alternative",
     "status": "up",
-    "uptime": "94.46%",
+    "uptime": "94.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.87%",
-    "uptimeYear": "94.46%",
+    "uptimeYear": "94.47%",
     "time": 481,
     "timeDay": 358,
     "timeWeek": 328,
