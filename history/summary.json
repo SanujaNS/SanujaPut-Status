@@ -13,7 +13,7 @@
     "time": 80,
     "timeDay": 35,
     "timeWeek": 85,
-    "timeMonth": 84,
+    "timeMonth": 83,
     "timeYear": 84,
     "dailyMinutesDown": {
       "2025-03-27": 15,
@@ -35,7 +35,7 @@
     "time": 106,
     "timeDay": 147,
     "timeWeek": 112,
-    "timeMonth": 121,
+    "timeMonth": 118,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-03-28": 7,
@@ -54,11 +54,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "68.46%",
+    "uptimeYear": "68.48%",
     "time": 1762,
     "timeDay": 1636,
     "timeWeek": 1359,
-    "timeMonth": 1475,
+    "timeMonth": 1468,
     "timeYear": 1802,
     "dailyMinutesDown": {
       "2025-03-22": 22,
@@ -201,8 +201,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -219,7 +218,7 @@
     "time": 1654,
     "timeDay": 1833,
     "timeWeek": 1312,
-    "timeMonth": 1343,
+    "timeMonth": 1345,
     "timeYear": 1620,
     "dailyMinutesDown": {
       "2025-03-22": 22,
@@ -259,8 +258,7 @@
       "2024-04-26": 10,
       "2024-04-08": 10,
       "2024-04-05": 17,
-      "2024-04-01": 9,
-      "2024-03-29": 10
+      "2024-04-01": 9
     }
   },
   {
@@ -277,7 +275,7 @@
     "time": 620,
     "timeDay": 795,
     "timeWeek": 810,
-    "timeMonth": 876,
+    "timeMonth": 864,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2025-02-18": 18,
@@ -314,7 +312,7 @@
     "time": 564,
     "timeDay": 788,
     "timeWeek": 358,
-    "timeMonth": 656,
+    "timeMonth": 642,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2025-03-08": 45,
@@ -378,15 +376,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/yt.sanuja.eu.org.ico",
     "slug": "yt-data-extractor",
     "status": "up",
-    "uptime": "96.06%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "96.06%",
+    "uptimeYear": "96.07%",
     "time": 1067,
     "timeDay": 867,
     "timeWeek": 1295,
-    "timeMonth": 2251,
+    "timeMonth": 2191,
     "timeYear": 1067,
     "dailyMinutesDown": {
       "2025-03-08": 22,
@@ -425,15 +423,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gm.sanuja.eu.org.ico",
     "slug": "golden-maple-web-radio-player",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "94.71%",
+    "uptimeYear": "94.72%",
     "time": 645,
     "timeDay": 5364,
     "timeWeek": 1045,
-    "timeMonth": 1261,
+    "timeMonth": 1230,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2025-03-08": 18,
@@ -471,7 +469,7 @@
     "time": 508,
     "timeDay": 367,
     "timeWeek": 269,
-    "timeMonth": 528,
+    "timeMonth": 531,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2025-03-08": 16,
@@ -509,7 +507,7 @@
     "time": 472,
     "timeDay": 332,
     "timeWeek": 340,
-    "timeMonth": 612,
+    "timeMonth": 601,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2025-03-08": 12,
@@ -547,7 +545,7 @@
     "time": 485,
     "timeDay": 354,
     "timeWeek": 1000,
-    "timeMonth": 615,
+    "timeMonth": 603,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2025-03-08": 10,
@@ -573,7 +571,7 @@
     "time": 452,
     "timeDay": 707,
     "timeWeek": 1146,
-    "timeMonth": 578,
+    "timeMonth": 575,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-03-01": 22,
@@ -596,7 +594,7 @@
     "time": 638,
     "timeDay": 562,
     "timeWeek": 650,
-    "timeMonth": 667,
+    "timeMonth": 670,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2025-01-27": 21,
