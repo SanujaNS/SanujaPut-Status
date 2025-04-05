@@ -35,12 +35,12 @@
     "slug": "my-blog",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "89.08%",
+    "uptimeDay": "89.31%",
     "uptimeWeek": "91.28%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.82%",
     "time": 113,
-    "timeDay": 145,
+    "timeDay": 153,
     "timeWeek": 157,
     "timeMonth": 148,
     "timeYear": 121,
@@ -66,7 +66,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "70.37%",
+    "uptimeYear": "70.38%",
     "time": 1781,
     "timeDay": 1423,
     "timeWeek": 1720,
@@ -209,8 +209,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -268,8 +267,7 @@
       "2024-05-11": 37,
       "2024-05-09": 11,
       "2024-04-26": 10,
-      "2024-04-08": 10,
-      "2024-04-05": 17
+      "2024-04-08": 10
     }
   },
   {
@@ -345,12 +343,12 @@
     "slug": "your-ip",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "80.95%",
+    "uptimeDay": "81.17%",
     "uptimeWeek": "94.65%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.88%",
     "time": 45,
-    "timeDay": 91,
+    "timeDay": 94,
     "timeWeek": 91,
     "timeMonth": 81,
     "timeYear": 49,
