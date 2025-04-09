@@ -4,8 +4,8 @@ repo: SanujaPut-Status # The name of this repository
 sites:
   - name: My Gateway Website
     url: https://sanuja.biz/
-    expectedStatusCodes:
-      - 403
+    #expectedStatusCodes:
+      #- 403
   - name: My Blog
     url: https://sanujas.com/
     expectedStatusCodes:
