@@ -10,6 +10,10 @@ sites:
     url: https://sanujas.com/
     expectedStatusCodes:
       - 403
+  - name: My Home Page
+    url: https://status.sanuja.biz/
+    expectedStatusCodes:
+      - 403
   - name: SanujaPut-Music-1
     url: https://smusic.sanujas.eu.org/
   - name: SanujaPut-Music-2
