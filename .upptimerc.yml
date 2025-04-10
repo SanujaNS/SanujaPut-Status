@@ -4,16 +4,19 @@ repo: SanujaPut-Status # The name of this repository
 sites:
   - name: My Gateway Website
     url: https://sanuja.biz/
-    #expectedStatusCodes:
-      #- 403
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: My Blog
     url: https://sanujas.com/
-    #expectedStatusCodes:
-    #  - 403
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: My Home Page
     url: https://status.sanuja.biz/
-    #expectedStatusCodes:
-    #  - 403
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: SanujaPut-Music-1
     url: https://smusic.sanujas.eu.org/
   - name: SanujaPut-Music-2
@@ -26,12 +29,14 @@ sites:
     url: https://ncore.sanujas.eu.org/
   - name: YourIP
     url: https://sanuja.biz/projects/tools/yourip
-    #expectedStatusCodes:
-    #  - 403
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: IPLookup
     url: https://sanuja.biz/projects/tools/iplookup
-    #expectedStatusCodes:
-    #  - 403
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: YT Data Extractor
     url: https://yt.sanuja.eu.org/
   - name: Golden Maple Web Radio Player
