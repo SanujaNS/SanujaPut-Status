@@ -28,12 +28,12 @@ sites:
   - name: Nightcore Music
     url: https://ncore.sanujas.eu.org/
   - name: YourIP
-    url: https://sanuja.biz/projects/tools/yourip
+    url: https://sanuja.biz/tools/yourip/
     expectedStatusCodes:
       - 200
       - 403
   - name: IPLookup
-    url: https://sanuja.biz/projects/tools/iplookup
+    url: https://sanuja.biz/tools/iplookup/
     expectedStatusCodes:
       - 200
       - 403
