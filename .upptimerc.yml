@@ -37,8 +37,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  - name: YT Data Extractor
-    url: https://yt.sanuja.eu.org/
+  - name: URL Redirect Checker
+    url: https://rdc.sanuja.eu.org/
   - name: Golden Maple Web Radio Player
     url: https://gm.sanuja.eu.org/
   - name: Sound Scenes
