@@ -13,7 +13,7 @@
     "time": 104,
     "timeDay": 102,
     "timeWeek": 95,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2025-04-10": 37,
@@ -48,7 +48,7 @@
     "time": 132,
     "timeDay": 135,
     "timeWeek": 159,
-    "timeMonth": 171,
+    "timeMonth": 173,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2025-04-10": 31,
@@ -82,7 +82,7 @@
     "time": 116,
     "timeDay": 103,
     "timeWeek": 96,
-    "timeMonth": 132,
+    "timeMonth": 134,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2025-04-10": 81,
@@ -103,7 +103,7 @@
     "time": 1734,
     "timeDay": 1774,
     "timeWeek": 2092,
-    "timeMonth": 1607,
+    "timeMonth": 1610,
     "timeYear": 1761,
     "dailyMinutesDown": {
       "2025-06-19": 22,
@@ -163,7 +163,7 @@
     "time": 1506,
     "timeDay": 2038,
     "timeWeek": 1545,
-    "timeMonth": 1586,
+    "timeMonth": 1571,
     "timeYear": 1488,
     "dailyMinutesDown": {
       "2025-09-04": 9,
@@ -214,16 +214,16 @@
     "url": "https://sanuja.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/sanuja.rf.gd.ico",
     "slug": "lofi-beats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "60.37%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "60.34%",
+    "uptimeWeek": "77.39%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "99.57%",
     "time": 708,
     "timeDay": 1438,
     "timeWeek": 848,
-    "timeMonth": 797,
+    "timeMonth": 794,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-09-24": 572,
@@ -232,7 +232,7 @@
       "2025-09-21": 321,
       "2025-09-20": 221,
       "2025-09-19": 221,
-      "2025-09-18": 61
+      "2025-09-18": 51
     }
   },
   {
@@ -249,7 +249,7 @@
     "time": 769,
     "timeDay": 377,
     "timeWeek": 289,
-    "timeMonth": 333,
+    "timeMonth": 335,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2025-08-25": 26,
@@ -288,7 +288,7 @@
     "time": 61,
     "timeDay": 78,
     "timeWeek": 68,
-    "timeMonth": 88,
+    "timeMonth": 89,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2025-04-10": 364,
@@ -353,7 +353,7 @@
     "time": 575,
     "timeDay": 384,
     "timeWeek": 964,
-    "timeMonth": 586,
+    "timeMonth": 587,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2025-08-25": 24,
@@ -375,7 +375,7 @@
     "time": 683,
     "timeDay": 444,
     "timeWeek": 444,
-    "timeMonth": 393,
+    "timeMonth": 396,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2025-08-25": 23,
@@ -421,7 +421,7 @@
     "time": 601,
     "timeDay": 631,
     "timeWeek": 429,
-    "timeMonth": 379,
+    "timeMonth": 380,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-08-24": 17,
@@ -510,7 +510,7 @@
     "time": 577,
     "timeDay": 234,
     "timeWeek": 297,
-    "timeMonth": 376,
+    "timeMonth": 381,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2025-08-25": 33,
@@ -571,7 +571,7 @@
     "time": 685,
     "timeDay": 616,
     "timeWeek": 703,
-    "timeMonth": 691,
+    "timeMonth": 694,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2025-01-27": 21,
