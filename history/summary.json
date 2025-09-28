@@ -215,11 +215,11 @@
     "url": "https://sanuja.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/sanuja.rf.gd.ico",
     "slug": "lofi-beats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "71.08%",
-    "uptimeWeek": "75.38%",
-    "uptimeMonth": "94.33%",
+    "uptimeDay": "71.05%",
+    "uptimeWeek": "75.65%",
+    "uptimeMonth": "94.40%",
     "uptimeYear": "99.53%",
     "time": 710,
     "timeDay": 728,
@@ -227,12 +227,13 @@
     "timeMonth": 787,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2025-09-28": 0,
       "2025-09-27": 415,
       "2025-09-26": 409,
       "2025-09-25": 383,
       "2025-09-24": 582,
       "2025-09-23": 374,
-      "2025-09-22": 320
+      "2025-09-22": 292
     }
   },
   {
