@@ -95,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smusic.sanujas.eu.org.ico",
     "slug": "sanuja-put-music-1",
     "status": "up",
-    "uptime": "78.87%",
+    "uptime": "78.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.75%",
@@ -217,16 +217,16 @@
     "url": "https://sanuja.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/sanuja.rf.gd.ico",
     "slug": "lofi-beats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "57.54%",
-    "uptimeWeek": "69.34%",
-    "uptimeMonth": "92.94%",
+    "uptimeDay": "60.77%",
+    "uptimeWeek": "69.43%",
+    "uptimeMonth": "92.97%",
     "uptimeYear": "99.41%",
     "time": 754,
     "timeDay": 638,
-    "timeWeek": 704,
-    "timeMonth": 823,
+    "timeWeek": 703,
+    "timeMonth": 824,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2025-10-30": 426,
@@ -235,8 +235,7 @@
       "2025-10-27": 523,
       "2025-10-26": 389,
       "2025-10-25": 440,
-      "2025-10-24": 406,
-      "2025-10-23": 10
+      "2025-10-24": 406
     }
   },
   {
