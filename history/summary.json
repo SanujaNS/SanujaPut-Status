@@ -40,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanujas.com.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -218,11 +218,11 @@
     "url": "https://sanuja.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/sanuja.rf.gd.ico",
     "slug": "lofi-beats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "60.57%",
-    "uptimeWeek": "68.04%",
-    "uptimeMonth": "92.64%",
+    "uptimeDay": "70.05%",
+    "uptimeWeek": "68.16%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
     "time": 761,
     "timeDay": 748,
@@ -230,13 +230,14 @@
     "timeMonth": 827,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2025-11-01": 0,
       "2025-10-31": 632,
       "2025-10-30": 631,
       "2025-10-29": 456,
       "2025-10-28": 445,
       "2025-10-27": 523,
       "2025-10-26": 389,
-      "2025-10-25": 154
+      "2025-10-25": 141
     }
   },
   {
