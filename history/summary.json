@@ -107,7 +107,7 @@
     "timeDay": 983,
     "timeWeek": 1581,
     "timeMonth": 1453,
-    "timeYear": 1528,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2026-01-07": 58,
       "2025-12-22": 14,
@@ -238,17 +238,17 @@
     "url": "https://sanuja.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/sanuja.rf.gd.ico",
     "slug": "lofi-beats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "83.91%",
-    "uptimeWeek": "92.44%",
+    "uptimeDay": "86.14%",
+    "uptimeWeek": "92.54%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "99.50%",
-    "time": 773,
-    "timeDay": 1279,
+    "time": 774,
+    "timeDay": 1568,
     "timeWeek": 898,
     "timeMonth": 873,
-    "timeYear": 789,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2026-01-09": 179,
       "2026-01-08": 179,
@@ -278,7 +278,7 @@
       "2025-11-02": 96,
       "2025-11-01": 421,
       "2025-10-31": 632,
-      "2025-10-30": 373
+      "2025-10-30": 360
     }
   },
   {
@@ -296,7 +296,7 @@
     "timeDay": 112,
     "timeWeek": 6594,
     "timeMonth": 3037,
-    "timeYear": 1074,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2026-01-07": 23,
       "2026-01-06": 104,
@@ -376,7 +376,7 @@
     "timeDay": 26,
     "timeWeek": 15,
     "timeMonth": 16,
-    "timeYear": 30,
+    "timeYear": 29,
     "dailyMinutesDown": {
       "2025-11-18": 182,
       "2025-04-10": 364,
@@ -438,7 +438,7 @@
     "timeDay": 411,
     "timeWeek": 7328,
     "timeMonth": 3158,
-    "timeYear": 960,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2026-01-06": 104,
       "2026-01-05": 1440,
@@ -481,7 +481,7 @@
     "timeDay": 475,
     "timeWeek": 6890,
     "timeMonth": 3016,
-    "timeYear": 878,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2026-01-06": 104,
       "2026-01-05": 1440,
@@ -522,7 +522,7 @@
     "timeDay": 255,
     "timeWeek": 6726,
     "timeMonth": 3229,
-    "timeYear": 981,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2026-01-06": 105,
       "2026-01-05": 1440,
@@ -564,7 +564,7 @@
     "timeDay": 510,
     "timeWeek": 6746,
     "timeMonth": 2895,
-    "timeYear": 798,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2026-01-06": 105,
       "2026-01-05": 1440,
