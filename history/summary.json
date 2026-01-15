@@ -238,17 +238,18 @@
     "slug": "lofi-beats",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "87.53%",
-    "uptimeWeek": "88.64%",
-    "uptimeMonth": "96.26%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "83.02%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "99.54%",
     "time": 772,
     "timeDay": 1044,
     "timeWeek": 944,
     "timeMonth": 879,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2026-01-14": 181,
+      "2026-01-15": 63,
+      "2026-01-14": 183,
       "2026-01-13": 228,
       "2026-01-12": 96,
       "2026-01-11": 155,
@@ -288,7 +289,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncore.sanujas.eu.org.ico",
     "slug": "nightcore-music",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.45%",
@@ -637,8 +638,7 @@
     "timeYear": 684,
     "dailyMinutesDown": {
       "2025-01-27": 21,
-      "2025-01-16": 22,
-      "2025-01-15": 10
+      "2025-01-16": 22
     }
   }
 ]
