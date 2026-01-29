@@ -99,12 +99,12 @@
     "slug": "sanuja-put-music-1",
     "status": "up",
     "uptime": "80.96%",
-    "uptimeDay": "89.70%",
+    "uptimeDay": "94.95%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.74%",
     "time": 1668,
-    "timeDay": 2550,
+    "timeDay": 3176,
     "timeWeek": 1725,
     "timeMonth": 1785,
     "timeYear": 1533,
@@ -174,12 +174,12 @@
     "slug": "sanuja-put-music-2",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "89.70%",
+    "uptimeDay": "94.95%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.77%",
     "time": 1443,
-    "timeDay": 1097,
+    "timeDay": 1211,
     "timeWeek": 1288,
     "timeMonth": 1272,
     "timeYear": 1414,
@@ -241,12 +241,12 @@
     "slug": "lofi-beats",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "91.72%",
+    "uptimeDay": "92.65%",
     "uptimeWeek": "89.57%",
     "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 769,
-    "timeDay": 763,
+    "timeDay": 751,
     "timeWeek": 677,
     "timeMonth": 795,
     "timeYear": 791,
@@ -449,8 +449,7 @@
       "2025-02-27": 1228,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
-      "2025-02-24": 220,
-      "2025-01-29": 12
+      "2025-02-24": 220
     }
   },
   {
@@ -488,8 +487,7 @@
       "2025-02-27": 1226,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
-      "2025-02-24": 220,
-      "2025-01-29": 12
+      "2025-02-24": 220
     }
   },
   {
@@ -498,7 +496,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.sanuja.eu.org.ico",
     "slug": "sanuja-put-bin-pastebin-alternative",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "95.48%",
@@ -529,8 +527,7 @@
       "2025-02-27": 1225,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
-      "2025-02-24": 220,
-      "2025-01-29": 12
+      "2025-02-24": 220
     }
   },
   {
@@ -570,8 +567,7 @@
       "2025-02-27": 1223,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
-      "2025-02-24": 220,
-      "2025-01-29": 12
+      "2025-02-24": 220
     }
   },
   {
