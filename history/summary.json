@@ -243,11 +243,11 @@
     "url": "https://sanuja.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/sanuja.rf.gd.ico",
     "slug": "lofi-beats",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "94.22%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "94.19%",
     "uptimeWeek": "88.52%",
-    "uptimeMonth": "89.76%",
+    "uptimeMonth": "89.83%",
     "uptimeYear": "99.15%",
     "time": 783,
     "timeDay": 760,
@@ -283,7 +283,7 @@
       "2026-02-04": 49,
       "2026-02-03": 136,
       "2026-02-02": 48,
-      "2026-02-01": 180
+      "2026-02-01": 146
     }
   },
   {
@@ -366,32 +366,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanuja.biz.ico",
     "slug": "ip-lookup",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "100.00%",
     "time": 26,
     "timeDay": 10,
     "timeWeek": 17,
     "timeMonth": 19,
     "timeYear": 30,
-    "dailyMinutesDown": {
-      "2025-11-18": 182,
-      "2025-04-10": 364,
-      "2025-04-09": 422,
-      "2025-04-08": 195,
-      "2025-04-07": 238,
-      "2025-04-06": 166,
-      "2025-04-05": 124,
-      "2025-04-04": 214,
-      "2025-04-03": 157,
-      "2025-04-02": 152,
-      "2025-04-01": 69,
-      "2025-03-31": 13,
-      "2025-03-28": 20,
-      "2025-03-26": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "URL Redirect Checker",
@@ -399,28 +384,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rdc.sanuja.eu.org.ico",
     "slug": "url-redirect-checker",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "100.00%",
     "time": 1147,
     "timeDay": 378,
     "timeWeek": 500,
     "timeMonth": 484,
     "timeYear": 1147,
-    "dailyMinutesDown": {
-      "2026-01-06": 104,
-      "2026-01-05": 1440,
-      "2026-01-04": 387,
-      "2025-12-30": 23,
-      "2025-12-16": 14,
-      "2025-11-18": 182,
-      "2025-10-30": 21,
-      "2025-08-25": 24,
-      "2025-08-24": 29,
-      "2025-08-23": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Golden Maple Web Radio Player",
