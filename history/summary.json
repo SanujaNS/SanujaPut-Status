@@ -10,9 +10,9 @@
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
-    "time": 124,
-    "timeDay": 105,
-    "timeWeek": 102,
+    "time": 123,
+    "timeDay": 69,
+    "timeWeek": 103,
     "timeMonth": 103,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -27,15 +27,15 @@
     "slug": "my-blog",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "93.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
     "time": 144,
-    "timeDay": 86,
-    "timeWeek": 129,
-    "timeMonth": 118,
-    "timeYear": 146,
+    "timeDay": 139,
+    "timeWeek": 127,
+    "timeMonth": 120,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2026-04-23": 94,
       "2025-11-18": 129
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 115,
-    "timeDay": 113,
-    "timeWeek": 99,
-    "timeMonth": 104,
+    "timeDay": 58,
+    "timeWeek": 98,
+    "timeMonth": 103,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-11-18": 129
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smusic.sanujas.eu.org.ico",
     "slug": "sanuja-put-music-1",
     "status": "up",
-    "uptime": "83.43%",
+    "uptime": "83.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.70%",
-    "time": 1480,
-    "timeDay": 1350,
-    "timeWeek": 1217,
-    "timeMonth": 1265,
-    "timeYear": 1467,
+    "time": 1479,
+    "timeDay": 1127,
+    "timeWeek": 1209,
+    "timeMonth": 1254,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2026-04-23": 69,
       "2026-04-22": 8,
@@ -127,8 +127,7 @@
       "2025-05-14": 22,
       "2025-05-08": 11,
       "2025-05-04": 23,
-      "2025-04-27": 21,
-      "2025-04-25": 33
+      "2025-04-27": 21
     }
   },
   {
@@ -143,9 +142,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.72%",
     "time": 1394,
-    "timeDay": 1350,
-    "timeWeek": 1247,
-    "timeMonth": 1289,
+    "timeDay": 1329,
+    "timeWeek": 1272,
+    "timeMonth": 1282,
     "timeYear": 1367,
     "dailyMinutesDown": {
       "2026-04-23": 69,
@@ -189,8 +188,7 @@
       "2025-05-14": 22,
       "2025-05-08": 11,
       "2025-05-04": 23,
-      "2025-04-27": 21,
-      "2025-04-25": 33
+      "2025-04-27": 21
     }
   },
   {
@@ -201,13 +199,13 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.99%",
     "time": 789,
-    "timeDay": 827,
-    "timeWeek": 619,
-    "timeMonth": 735,
+    "timeDay": 469,
+    "timeWeek": 579,
+    "timeMonth": 720,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2026-04-17": 55,
@@ -248,18 +246,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncore.sanujas.eu.org.ico",
     "slug": "nightcore-music",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.92%",
-    "uptimeYear": "92.78%",
+    "uptimeMonth": "16.65%",
+    "uptimeYear": "92.51%",
     "time": 922,
-    "timeDay": 280,
-    "timeWeek": 400,
-    "timeMonth": 520,
+    "timeDay": 168,
+    "timeWeek": 312,
+    "timeMonth": 517,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2026-04-24": 112,
+      "2026-04-25": 104,
+      "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -302,8 +301,7 @@
       "2025-05-29": 10,
       "2025-05-12": 16,
       "2025-04-27": 134,
-      "2025-04-26": 27,
-      "2025-04-25": 354
+      "2025-04-26": 27
     }
   },
   {
@@ -318,10 +316,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 81,
-    "timeDay": 60,
-    "timeWeek": 63,
+    "timeDay": 46,
+    "timeWeek": 64,
     "timeMonth": 60,
-    "timeYear": 78,
+    "timeYear": 77,
     "dailyMinutesDown": {
       "2025-11-18": 182
     }
@@ -338,9 +336,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 25,
-    "timeDay": 8,
+    "timeDay": 5,
     "timeWeek": 12,
-    "timeMonth": 11,
+    "timeMonth": 10,
     "timeYear": 19,
     "dailyMinutesDown": {
       "2025-11-18": 182
@@ -357,11 +355,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1035,
-    "timeDay": 978,
-    "timeWeek": 591,
-    "timeMonth": 590,
-    "timeYear": 1035,
+    "time": 1033,
+    "timeDay": 387,
+    "timeWeek": 555,
+    "timeMonth": 581,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2026-01-06": 104,
       "2026-01-05": 1440,
@@ -381,16 +379,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gm.sanuja.eu.org.ico",
     "slug": "golden-maple-web-radio-player",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 865,
-    "timeDay": 897,
-    "timeWeek": 422,
-    "timeMonth": 479,
-    "timeYear": 899,
+    "time": 863,
+    "timeDay": 248,
+    "timeWeek": 426,
+    "timeMonth": 464,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2026-01-27": 33,
       "2026-01-06": 104,
@@ -406,8 +404,7 @@
       "2025-06-08": 23,
       "2025-04-28": 11,
       "2025-04-27": 132,
-      "2025-04-26": 15,
-      "2025-04-25": 362
+      "2025-04-26": 15
     }
   },
   {
@@ -421,10 +418,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 781,
-    "timeDay": 571,
-    "timeWeek": 312,
-    "timeMonth": 354,
+    "time": 780,
+    "timeDay": 165,
+    "timeWeek": 305,
+    "timeMonth": 348,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2026-01-06": 104,
@@ -438,8 +435,7 @@
       "2025-08-23": 34,
       "2025-06-08": 23,
       "2025-04-27": 131,
-      "2025-04-26": 14,
-      "2025-04-25": 360
+      "2025-04-26": 14
     }
   },
   {
@@ -453,11 +449,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.45%",
-    "time": 817,
-    "timeDay": 325,
-    "timeWeek": 357,
-    "timeMonth": 369,
-    "timeYear": 978,
+    "time": 816,
+    "timeDay": 78,
+    "timeWeek": 287,
+    "timeMonth": 361,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2026-04-16": 66,
       "2026-02-04": 27,
@@ -474,8 +470,7 @@
       "2025-06-08": 23,
       "2025-05-12": 26,
       "2025-04-27": 130,
-      "2025-04-26": 13,
-      "2025-04-25": 347
+      "2025-04-26": 13
     }
   },
   {
@@ -490,9 +485,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 708,
-    "timeDay": 324,
-    "timeWeek": 290,
-    "timeMonth": 453,
+    "timeDay": 180,
+    "timeWeek": 261,
+    "timeMonth": 441,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2026-01-27": 33,
@@ -508,8 +503,7 @@
       "2025-08-23": 27,
       "2025-06-08": 23,
       "2025-04-27": 129,
-      "2025-04-26": 12,
-      "2025-04-25": 345
+      "2025-04-26": 12
     }
   },
   {
@@ -518,14 +512,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-file-index",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.97%",
     "uptimeYear": "97.95%",
-    "time": 505,
-    "timeDay": 491,
-    "timeWeek": 444,
+    "time": 506,
+    "timeDay": 427,
+    "timeWeek": 437,
     "timeMonth": 526,
     "timeYear": 501,
     "dailyMinutesDown": {
@@ -558,9 +552,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 549,
-    "timeWeek": 661,
-    "timeMonth": 686,
+    "timeDay": 763,
+    "timeWeek": 658,
+    "timeMonth": 693,
     "timeYear": 676,
     "dailyMinutesDown": {}
   }
